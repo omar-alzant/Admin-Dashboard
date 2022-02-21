@@ -23,6 +23,7 @@ body {
       background-color: rgb(216, 220, 225);
       margin-bottom: 20px;
       margin-left: 25px;
+      width: clamp(40vw,50vw,60vw);
       }
 
 img {

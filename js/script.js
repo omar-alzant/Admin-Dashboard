@@ -1,6 +1,6 @@
 function add(){
     const unknown = document.querySelector('.grid-title');
-    unknown.innerHTML += `<div class="grid-itme" style="margin:5px; display:grid; grid-template-rows: auto auto;"> 
+    unknown.innerHTML += `<div class="grid-itme"  > 
     <label for="in1"> Project-Name: </label>
     <input type="text" id="in1" placeholder="Title">
     <label for="t1"> Description:</label>
